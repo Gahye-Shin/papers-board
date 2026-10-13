@@ -3,7 +3,7 @@
 연구 주제를 정하면 관련 SCI 논문을 매일 자동으로 수집·분류해서 웹 보드로 보여주는 시스템입니다.
 
 ```
-OpenAlex (논문 검색) ─▶ Claude (관련성 판정·소분류·Lab score·한 줄 요약)
+OpenAlex (논문 검색) ─▶ 키워드 규칙 분류 (무료) 또는 Claude 분류 (유료, 선택)
         ─▶ data/papers.json (DOI 기준 누적) ─▶ site/ (GitHub Pages 웹 보드)
                      ▲ GitHub Actions가 매일 06:47 KST 자동 실행
 ```
@@ -92,7 +92,17 @@ cd site && python -m http.server 8000        # http://localhost:8000
 - 논문 카드: 한 줄 요약, 소분류 태그(클릭 시 해당 분류로 이동), 초록 펼치기, Lab score 70+ 강조
 - ★ 저장과 다크모드는 각자 브라우저에 저장됩니다 (연구실 공용 저장이 아님)
 
-## 비용 감각
+## 완전 무료 모드 (기본값)
+`config.yaml`의 `pipeline.classifier: keywords`이면 Claude API 없이 키워드 규칙으로 분류합니다.
+- 필요한 키: `OPENALEX_API_KEY` 하나 (무료). `ANTHROPIC_API_KEY`는 등록하지 않아도 됩니다.
+- 관련성: `relevance` (필수 단어 + 공기/기상 단어, 제목 제외어)
+- 소분류: 각 `categories`의 `keywords`
+- Lab score: `lab_keywords`의 점수 합 (100 상한)
+- 한 줄 요약은 없습니다.
+- 규칙을 고친 뒤 Actions에서 **mode: build**만 돌리면 기존 논문 전체가 즉시 재분류됩니다.
+- 나중에 정확도를 높이고 싶으면 `classifier: claude`로 바꾸고 `ANTHROPIC_API_KEY`를 등록하세요.
+
+## 비용 감각 (Claude 모드)
 - 분류는 기본 `claude-haiku-5-5` (저렴·빠름). 논문 10편을 한 번에 보내고 공통 지시문은 프롬프트 캐싱을 적용합니다.
 - 백필은 후보 수천 편을 한 번 분류하는 게 비용의 대부분이고, 이후 매일은 신규 수십 편 수준이라 미미합니다.
 - 이미 분류한 논문은 다시 분류하지 않습니다 (`reclassify` 할 때만).
