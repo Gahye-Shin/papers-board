@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCI Papers Briefing Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="wrap">
+  <header class="masthead">
+    <div class="kicker">SCI Papers</div>
+    <h1>Briefing Board</h1>
+    <h2 class="topic"><span class="sq"></span><span id="topic">—</span></h2>
+    <p class="sub" id="subtitle"></p>
+  </header>
+
+  <div class="dateline">
+    <strong id="updated">—</strong>
+    <span id="range"></span>
+    <span id="journals"></span>
+  </div>
+
+  <section class="stats">
+    <div class="stat"><b id="s-shown">0</b><span>Papers shown</span></div>
+    <div class="stat"><b id="s-relevant">0</b><span>Relevant found</span></div>
+    <div class="stat"><b id="s-cites">0</b><span>Citations</span></div>
+    <div class="stat accent"><b id="s-new">0</b><span>New this week</span></div>
+  </section>
+
+  <section class="chart-card">
+    <div class="bars" id="bars"></div>
+    <p class="caption">연도별 논문 수 (현재 필터 기준) · 막대를 누르면 해당 연도만 보기</p>
+  </section>
+
+  <nav class="chips" id="chips"></nav>
+
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Search papers…" autocomplete="off">
+    <button id="collapse">Expand all</button>
+    <select id="sort" aria-label="Sort">
+      <option value="score">Sort: Lab score ↓</option>
+      <option value="cites">Sort: Citations ↓</option>
+      <option value="date">Sort: Newest ↓</option>
+    </select>
+    <button id="theme" title="Dark mode" aria-label="Toggle dark mode">☾</button>
+  </div>
+
+  <section id="list" class="list"></section>
+  <div class="more"><button id="more" hidden>Show more</button></div>
+  <footer class="foot">Data: OpenAlex · Classification: Claude · Updated daily via GitHub Actions</footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

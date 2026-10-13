@@ -1,0 +1,162 @@
+# ─────────────────────────────────────────────────────────────
+#  SCI Papers Briefing Board — 설정 파일
+#  연구 주제를 바꾸려면 이 파일만 수정하면 됩니다.
+# ─────────────────────────────────────────────────────────────
+
+board:
+  title: "Photocatalytic air purification"     # 보드 제목
+  subtitle: "TIME Lab - Gahye Shin"                     # 연구실/소속
+  start_year: 2020                                  # 백필 시작 연도
+  summary_language: "English"                         # 한 줄 요약 언어 (Korean / English)
+
+# OpenAlex에서 후보 논문을 가져올 검색식 (제목+초록 대상)
+#  - AND / OR / NOT 은 대문자, 구문은 "큰따옴표"
+#  - 쉼표(,)와 파이프(|)는 쓰지 마세요 (OpenAlex 필터 구분자)
+#  - 여러 개를 적으면 각각 검색 후 중복 제거
+queries:
+  # 공기 정화 전반
+  - '(photocatalytic OR photocatalysis OR photooxidation) AND ("air purification" OR "air cleaning" OR "air treatment")'
+  - '(photocatalytic OR photocatalysis) AND ("indoor air" OR "indoor air quality")'
+
+  # VOC 전반
+  - '(photocatalytic OR photocatalysis) AND ("volatile organic compounds" OR VOC OR VOCs)'
+
+  # 주요 VOC의 기상 제거
+  - '(photocatalytic OR photocatalysis) AND (formaldehyde OR acetaldehyde OR toluene OR benzene OR xylene OR ethylbenzene OR acetone) AND ("gas phase" OR "gas-phase" OR gaseous OR indoor OR air)'
+
+  # 질소산화물 제거
+  - '(photocatalytic OR photocatalysis) AND (NOx OR "nitric oxide" OR "nitrogen dioxide") AND (removal OR oxidation OR abatement)'
+
+  # 악취 제거
+  - '(photocatalytic OR photocatalysis) AND (odor OR odour OR deodorization) AND (air OR gaseous OR "gas phase" OR "gas-phase")'
+  - '(photocatalytic OR photocatalysis) AND (ammonia OR "hydrogen sulfide") AND (removal OR degradation OR oxidation) AND (air OR gaseous OR "gas phase" OR "gas-phase")'
+
+  # 광촉매 필터·공조 시스템
+  - '(photocatalytic OR photocatalysis) AND (filter OR filtration OR HVAC OR photoreactor) AND (air OR VOC OR VOCs OR gaseous)'
+
+# 연구실 관심사 — Claude가 "Lab score(0~100)"를 매길 때 기준
+lab_profile: |
+  Vapor-phase photocatalytic air purification of indoor VOCs.
+  Plasmonic metal / TiO2 systems (Au, Ag, Cu nanoparticles, LSPR, hot electrons).
+  Real-world deactivation: humidity-induced deactivation, SO2 poisoning and recovery,
+  catalyst regeneration and long-term stability. In situ surface characterization
+  (DRIFTS/FTIR, Raman, XAFS) and reaction mechanism.
+
+# 소분류 — 논문 하나에 여러 개가 붙을 수 있음 (id는 영문/숫자, 바꾸면 reclassify 필요)
+categories:
+  - id: tio2
+    label: "TiO₂-based & modified TiO₂"
+    description: "TiO2 as the main photocatalyst, including doped, defect-engineered or facet-controlled TiO2."
+  - id: plasmonic
+    label: "Plasmonic metals (Au, Ag, Cu)"
+    description: "Plasmonic nanoparticles, LSPR, hot-electron or near-field effects driving or enhancing the reaction."
+  - id: non_tio2
+    label: "Non-TiO₂ semiconductors"
+    description: "g-C3N4, Bi-based (BiOX, Bi2WO6), WO3, ZnO, CeO2, MOFs used as the photoactive phase, etc."
+  - id: sac
+    label: "Single atoms & clusters"
+    description: "Single-atom catalysts or sub-nanometer clusters as active sites."
+  - id: heterojunction
+    label: "Heterojunctions & Z/S-scheme"
+    description: "Type-II, Z-scheme, S-scheme, Schottky junction designs for charge separation."
+  - id: humidity
+    label: "Humidity & water effects"
+    description: "Effect of relative humidity, water adsorption, hydroxyl radicals from water, hydrophobic design."
+  - id: deactivation
+    label: "Deactivation, poisoning & regeneration"
+    description: "Catalyst deactivation by intermediates, SO2, siloxanes, NOx; regeneration and long-term stability."
+  - id: hcho
+    label: "Formaldehyde (HCHO)"
+    description: "Formaldehyde is a target pollutant."
+  - id: aromatics
+    label: "Aromatics (toluene, benzene, xylene)"
+    description: "Aromatic VOCs are target pollutants."
+  - id: ovoc
+    label: "Oxygenated VOCs (acetaldehyde, acetone, alcohols)"
+    description: "Acetaldehyde, acetone, methanol, ethanol, IPA and other OVOCs as targets."
+  - id: mechanism
+    label: "Mechanism (in situ, ROS, DFT)"
+    description: "In situ DRIFTS/FTIR, EPR/ROS identification, intermediates, DFT calculations, kinetics."
+  - id: photothermal
+    label: "Photothermal & photo-thermo synergy"
+    description: "Combined light and heat, photothermal catalysis, full-spectrum utilization."
+  - id: reactor
+    label: "Reactor, device & real indoor tests"
+    description: "Reactor design, coatings, filters, air purifiers, chamber or field tests, scale-up."
+  - id: nox
+    label: "NOx removal"
+    description: "NO, NO2 or NOx are target pollutants (photocatalytic oxidation or reduction, nitrate formation)."
+  - id: odor
+    label: "Odor, NH₃ & H₂S"
+    description: "Odorous compounds, ammonia, hydrogen sulfide, mercaptans or other sulfur/nitrogen odorants are targets."
+
+# 저널 티어 — 여기에 등록된 저널 = "SCI 화이트리스트"
+#  - 이름은 OpenAlex의 저널명(source display_name)과 맞춰야 합니다 (대소문자·&/and·구두점 무시)
+#  - 저널명이 바뀐 경우 aliases에 옛 이름도 넣어두세요
+#  - issn을 적으면 이름보다 우선 매칭됩니다 (선택)
+journal_tiers:
+  - id: tier1
+    label: "Tier 1 · Top"
+    journals:
+      - Nature
+      - Science
+      - Nature Catalysis
+      - Nature Energy
+      - Nature Chemistry
+      - Nature Materials
+      - Nature Sustainability
+      - Nature Chemical Engineering
+      - Joule
+      - Chem
+  - id: tier2
+    label: "Tier 2 · Chem/Mater"
+    journals:
+      - Journal of the American Chemical Society
+      - Angewandte Chemie International Edition
+      - Nature Communications
+      - Science Advances
+      - Advanced Materials
+      - Advanced Energy Materials
+      - Advanced Functional Materials
+      - Energy & Environmental Science
+      - ACS Nano
+      - Nano Letters
+      - Nano Energy
+      - Small
+      - Chemical Science
+  - id: tier3
+    label: "Tier 3 · Catalysis"
+    journals:
+      - ACS Catalysis
+      - name: Applied Catalysis B Environment and Energy
+        aliases: ["Applied Catalysis B Environmental", "Applied Catalysis B: Environmental"]
+      - Journal of Catalysis
+      - Chinese Journal of Catalysis
+      - Catalysis Science & Technology
+      - Applied Catalysis A General
+      - Journal of Materials Chemistry A
+      - Chemical Engineering Journal
+  - id: tier4
+    label: "Tier 4 · Environment/Air"
+    journals:
+      - Environmental Science & Technology
+      - Journal of Hazardous Materials
+      - Building and Environment
+      - Indoor Air
+      - Separation and Purification Technology
+      - Journal of Environmental Chemical Engineering
+      - Chemosphere
+      - Environmental Science Nano
+      - ACS ES&T Engineering
+      - Applied Surface Science
+
+# true  → 화이트리스트 저널만 보드에 올림 (엄격한 SCI 보드)
+# false → 다른 저널도 올리되 "Other journals"로 표시
+only_listed_journals: false
+
+pipeline:
+  model: "claude-haiku-5-5"        # 분류용 모델 (저렴·빠름). 더 정밀하게: claude-sonnet-5-5
+  batch_size: 10                   # Claude 호출 1회당 논문 수
+  daily_lookback_days: 30          # 매일 실행 시 최근 N일 출판분을 다시 훑음 (늦게 색인되는 논문 대비)
+  min_lab_score_to_highlight: 70   # 이 점수 이상은 보드에서 ★강조
+  include_types: ["article", "review"]
