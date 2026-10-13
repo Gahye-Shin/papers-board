@@ -4,8 +4,8 @@
   python -m board.run daily               # 매일: 최근 N일 신규 논문 수집·분류
   python -m board.run refresh-citations   # 인용수 갱신 (workflow에서 주 1회)
   python -m board.run reclassify [--all]  # 소분류 바꾼 뒤 재분류
-  python -m board.run suggest-categories  # 백필 결과로 소분류 체계 초안 제안
-  python -m board.run build               # 웹 보드 데이터(site/data)만 재생성
+  python -m board.run suggest-categories  # 백필 결과로 소분류 체계 초안 제안 (Claude 모드 전용)
+  python -m board.run build               # 웹 보드 데이터 재생성 (키워드 모드: config 바꾼 뒤 이것만 돌리면 재분류까지 반영)
 
 공통 옵션: --limit N (검색어당 최대 N편, 테스트용)
 """
@@ -47,8 +47,24 @@ def collect(cfg: Config, store: Store, from_date: date, limit: int | None, mode:
 
 
 # ── 분류 ───────────────────────────────────────────────────
+def use_keywords(cfg: Config) -> bool:
+    return cfg.pipeline.get("classifier", "keywords") != "claude"
+
+
 def classify_pending(cfg: Config, store: Store, papers: list[dict] | None = None):
-    from .classify import Classifier  # anthropic 미설치 상태에서도 build는 돌도록 지연 import
+    if use_keywords(cfg):
+        # 무료 키워드 분류: 순식간이므로 매번 전체를 다시 분류 → config 수정이 바로 반영됨
+        from .keywords import KeywordClassifier
+        clf = KeywordClassifier(cfg)
+        res = clf.classify(list(store.papers.values()))
+        at = now_iso()
+        for pid, r in res.items():
+            store.papers[pid]["classification"] = {**r, "at": at}
+        log(f"[분류] 키워드 규칙으로 {len(res)}편 분류 (관련 {sum(r['relevant'] for r in res.values())}편)")
+        store.save()
+        return
+
+    from .classify import Classifier  # Claude 모드에서만 anthropic 사용
 
     todo = papers if papers is not None else store.unclassified()
     if not todo:
@@ -162,6 +178,8 @@ def main(argv=None):
         print(Classifier(cfg).suggest_categories(sample))
 
     elif args.command == "build":
+        if use_keywords(cfg):
+            classify_pending(cfg, store)
         build(cfg, store)
 
 
