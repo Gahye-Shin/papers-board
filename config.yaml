@@ -34,7 +34,92 @@ queries:
   # 광촉매 필터·공조 시스템
   - '(photocatalytic OR photocatalysis) AND (filter OR filtration OR HVAC OR photoreactor) AND (air OR VOC OR VOCs OR gaseous)'
 
-# 연구실 관심사 — Claude가 "Lab score(0~100)"를 매길 때 기준
+# ─────────────────────────────────────────────────────────────
+#  무료 키워드 분류 규칙 (pipeline.classifier: keywords 일 때 사용)
+#  · 전부 소문자 → 대소문자 무시 / 대문자 섞임 → 대소문자 구분 (HCHO, Au, NOx)
+#  · 끝에 * → 접두어 매칭 (photocataly* = photocatalyst, photocatalytic …)
+#  · 제목+초록에서 찾습니다. 수정 후 Actions에서 mode: build 로 돌리면 바로 재분류
+# ─────────────────────────────────────────────────────────────
+
+# 관련성 판정: must_have_any 중 하나 AND context_any 중 하나가 있어야 보드에 올라감
+relevance:
+  must_have_any: [photocataly*, photo-oxidation, photooxidation, photo-catalytic, photothermocataly*]
+  context_any:
+    - air
+    - gas phase
+    - gaseous
+    - indoor
+    - vapor
+    - vapour
+    - VOC*
+    - volatile organic
+    - formaldehyde
+    - HCHO
+    - acetaldehyde
+    - toluene
+    - benzene
+    - xylene
+    - NOx
+    - nitric oxide
+    - odor*
+    - odour*
+    - deodori*
+    - hydrogen sulfide
+    - H2S
+    - gaseous ammonia
+  # 제목에 이 단어가 있으면 제외 (수처리·에너지 변환 등 다른 분야)
+  exclude_if_in_title:
+    - wastewater
+    - waste water
+    - aqueous
+    - dye*
+    - methylene blue
+    - rhodamine
+    - methyl orange
+    - antibiotic*
+    - tetracycline
+    - hydrogen evolution
+    - H2 evolution
+    - water splitting
+    - CO2 reduction
+    - CO2 photoreduction
+    - nitrogen fixation
+    - sensor*
+    - sensing
+    - antibacterial
+    - disinfection
+  # 초록에만 이런 단어가 있으면, 제목에 공기/기상 관련어가 있을 때만 통과
+  exclude_unless_context_in_title: [wastewater, aqueous solution, dye degradation, water treatment]
+
+# Lab score (0~100): 아래 키워드가 나올 때마다 점수를 더함 (100에서 상한)
+lab_keywords:
+  plasmon*: 25
+  LSPR: 20
+  hot electron*: 15
+  Au: 15
+  gold: 10
+  Ag: 8
+  Cu: 8
+  TiO2: 15
+  humidity: 15
+  relative humidity: 5
+  deactivation: 20
+  SO2: 20
+  poisoning: 15
+  regenerat*: 10
+  stability: 5
+  DRIFTS: 10
+  in situ: 8
+  FTIR: 5
+  XAFS: 10
+  XANES: 8
+  EXAFS: 8
+  indoor: 10
+  formaldehyde: 5
+  acetaldehyde: 5
+  toluene: 5
+
+# 연구실 관심사 — Claude 모드에서만 사용 (키워드 모드에서는 무시됨)
 lab_profile: |
   Vapor-phase photocatalytic air purification of indoor VOCs.
   Plasmonic metal / TiO2 systems (Au, Ag, Cu nanoparticles, LSPR, hot electrons).
@@ -42,52 +127,69 @@ lab_profile: |
   catalyst regeneration and long-term stability. In situ surface characterization
   (DRIFTS/FTIR, Raman, XAFS) and reaction mechanism.
 
-# 소분류 — 논문 하나에 여러 개가 붙을 수 있음 (id는 영문/숫자, 바꾸면 reclassify 필요)
+# 소분류 — 논문 하나에 여러 개가 붙을 수 있음
+#  keywords: 키워드 모드에서 사용 (하나라도 있으면 해당 소분류)
+#  description: Claude 모드에서 사용
 categories:
   - id: tio2
     label: "TiO₂-based & modified TiO₂"
+    keywords: [TiO2, titania, titanium dioxide, P25, anatase, rutile]
     description: "TiO2 as the main photocatalyst, including doped, defect-engineered or facet-controlled TiO2."
   - id: plasmonic
     label: "Plasmonic metals (Au, Ag, Cu)"
+    keywords: [plasmon*, LSPR, surface plasmon resonance, hot electron*, hot carrier*]
     description: "Plasmonic nanoparticles, LSPR, hot-electron or near-field effects driving or enhancing the reaction."
   - id: non_tio2
     label: "Non-TiO₂ semiconductors"
+    keywords: [g-C3N4, C3N4, carbon nitride, BiOCl, BiOBr, BiOI, Bi2WO6, BiVO4, Bi2MoO6, WO3, ZnO, CeO2, SrTiO3, metal-organic framework*, MOF, MOFs, perovskite*]
     description: "g-C3N4, Bi-based (BiOX, Bi2WO6), WO3, ZnO, CeO2, MOFs used as the photoactive phase, etc."
   - id: sac
     label: "Single atoms & clusters"
+    keywords: [single atom*, single-atom*, atomically dispersed, isolated atom*, SAC, SACs, subnanometer, sub-nanometer, nanocluster*, metal cluster*]
     description: "Single-atom catalysts or sub-nanometer clusters as active sites."
   - id: heterojunction
     label: "Heterojunctions & Z/S-scheme"
+    keywords: [heterojunction*, hetero-junction*, Z-scheme, S-scheme, type-II, type II, Schottky]
     description: "Type-II, Z-scheme, S-scheme, Schottky junction designs for charge separation."
   - id: humidity
     label: "Humidity & water effects"
+    keywords: [humidity, humid, water vapor, water vapour, moisture, hydrophobic*, RH]
     description: "Effect of relative humidity, water adsorption, hydroxyl radicals from water, hydrophobic design."
   - id: deactivation
     label: "Deactivation, poisoning & regeneration"
+    keywords: [deactivat*, poison*, regenerat*, long-term stability, durability, SO2, sulfur dioxide, siloxane*]
     description: "Catalyst deactivation by intermediates, SO2, siloxanes, NOx; regeneration and long-term stability."
   - id: hcho
     label: "Formaldehyde (HCHO)"
+    keywords: [formaldehyde, HCHO]
     description: "Formaldehyde is a target pollutant."
   - id: aromatics
     label: "Aromatics (toluene, benzene, xylene)"
+    keywords: [toluene, benzene, xylene*, ethylbenzene, styrene, BTEX, aromatic VOC*]
     description: "Aromatic VOCs are target pollutants."
   - id: ovoc
     label: "Oxygenated VOCs (acetaldehyde, acetone, alcohols)"
+    keywords: [acetaldehyde, acetone, methanol, ethanol, isopropanol, isopropyl alcohol, IPA, ethyl acetate, oxygenated VOC*, OVOC*]
     description: "Acetaldehyde, acetone, methanol, ethanol, IPA and other OVOCs as targets."
   - id: mechanism
     label: "Mechanism (in situ, ROS, DFT)"
+    keywords: [reaction mechanism*, reaction pathway*, degradation pathway*, in situ, in-situ, operando, DRIFTS, EPR, ESR, reactive oxygen species, ROS, DFT, density functional, trapping experiment*, kinetic model*]
     description: "In situ DRIFTS/FTIR, EPR/ROS identification, intermediates, DFT calculations, kinetics."
   - id: photothermal
     label: "Photothermal & photo-thermo synergy"
+    keywords: [photothermal*, photo-thermal*, photothermocataly*, thermo-photo*, full-spectrum, full spectrum]
     description: "Combined light and heat, photothermal catalysis, full-spectrum utilization."
   - id: reactor
     label: "Reactor, device & real indoor tests"
+    keywords: [reactor*, photoreactor*, air purifier*, air cleaner*, filter*, HVAC, coating*, chamber, field test*, scale-up, pilot]
     description: "Reactor design, coatings, filters, air purifiers, chamber or field tests, scale-up."
   - id: nox
     label: "NOx removal"
+    keywords: [NOx, NO2, nitric oxide, nitrogen oxide*, nitrogen dioxide, DeNOx]
     description: "NO, NO2 or NOx are target pollutants (photocatalytic oxidation or reduction, nitrate formation)."
   - id: odor
     label: "Odor, NH₃ & H₂S"
+    keywords: [odor*, odour*, deodori*, malodor*, ammonia, NH3, hydrogen sulfide, H2S, mercaptan*, methanethiol, thiol*]
     description: "Odorous compounds, ammonia, hydrogen sulfide, mercaptans or other sulfur/nitrogen odorants are targets."
 
 # 저널 티어 — 여기에 등록된 저널 = "SCI 화이트리스트"
@@ -155,6 +257,7 @@ journal_tiers:
 only_listed_journals: false
 
 pipeline:
+  classifier: keywords             # keywords = 완전 무료 (API 불필요) / claude = Claude API로 분류 (유료, 더 정확)
   model: "claude-haiku-5-5"        # 분류용 모델 (저렴·빠름). 더 정밀하게: claude-sonnet-5-5
   batch_size: 10                   # Claude 호출 1회당 논문 수
   daily_lookback_days: 30          # 매일 실행 시 최근 N일 출판분을 다시 훑음 (늦게 색인되는 논문 대비)
