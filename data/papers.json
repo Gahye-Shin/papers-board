@@ -36,7 +36,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3157570620": {
@@ -55,7 +55,7 @@
 "Woojung Jeon",
 "Wonyong Choi"
 ],
-"citations": 201,
+"citations": 203,
 "abstract": "Photocatalytic air purification is a promising technology that mimics nature’s photochemical process, but its practical applications are still limited despite considerable research efforts in recent decades. Here, we briefly discuss the progress and challenges associated with this technology.",
 "url": "https://doi.org/10.1038/s41467-021-22839-0",
 "tier": "tier2",
@@ -67,7 +67,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4285813727": {
@@ -104,7 +104,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3031726180": {
@@ -137,7 +137,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7137699295": {
@@ -166,7 +166,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3005740274": {
@@ -186,7 +186,7 @@
 "Fariborz Haghighat",
 "Chang‐Seo Lee"
 ],
-"citations": 185,
+"citations": 186,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2020.118735",
 "tier": "tier3",
@@ -200,7 +200,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4212874102": {
@@ -234,7 +234,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3208290117": {
@@ -273,7 +273,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3017122583": {
@@ -310,7 +310,7 @@
 "lab_score": 50,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3187935159": {
@@ -331,7 +331,7 @@
 "Brahim Zerelli",
 "Yamin Leprince‐Wang"
 ],
-"citations": 51,
+"citations": 53,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jclepro.2021.128447",
 "tier": null,
@@ -345,7 +345,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4285792346": {
@@ -377,7 +377,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3133818744": {
@@ -412,7 +412,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4391993771": {
@@ -451,7 +451,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4376613209": {
@@ -490,7 +490,7 @@
 "lab_score": 40,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7220232779": {
@@ -520,7 +520,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4411242645": {
@@ -543,7 +543,7 @@
 "Jae‐Hong Kim",
 "Seunghyun Weon"
 ],
-"citations": 17,
+"citations": 18,
 "abstract": "The most promising strategy for photocatalyst design involves loading cocatalysts to enhance charge-carrier separation, with carbon nanomaterials perceived as being more environmentally and economically feasible than noble metals. However, this study reveals a critical limitation: in atmospheric environments where reactant density is relatively low, the generation of OH radicals triggers the breakdown of the C–C network in carbon cocatalysts rather than degrading air pollutants. This self-destruction of carbon cocatalysts not only reduced long-term efficiency but also led to their mineralization into CO 2, causing unintended secondary air pollution. We verified the self-destruction mechanism of carbon nanotubes, graphene oxides, and carbon nanofibers loaded onto TiO 2 through microscopic and colorimetric analyses in air purification applications. Although these composites initially exhibited higher removal efficiencies for various gaseous pollutants, their performances over an extended period reverted to that of pristine TiO 2, while contributing to additional CO 2 emission. An economic analysis comparing carbon cocatalysts with noble metals, factoring in material costs, accumulated depreciation, and CO 2 emission taxes, revealed that carbon cocatalysts are less economically favorable than noble metal cocatalysts, especially when they are used in practice over the long term. Contrary to perception, using carbon cocatalysts in photocatalytic air purification may offset their benefits, indicating the need for a paradigm shift from focusing on initial cost and removal efficiency to considering the ultimate environmental relevance.",
 "url": "https://doi.org/10.1021/acs.est.5c00660",
 "tier": "tier4",
@@ -555,7 +555,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3044107065": {
@@ -596,7 +596,7 @@
 "lab_score": 48,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4283742862": {
@@ -617,7 +617,7 @@
 "Suhong Chen",
 "Dongting Yue"
 ],
-"citations": 28,
+"citations": 29,
 "abstract": "The development of clean and sustainable teleology is vital to treat the critical environmental pollutants. In the last decade, the use of photocatalytic reactors has been widely reported for organic pollutants degradation. From photocatalysis’s application in environmental remediation, the primary technical issue to scientists is always the efficiency. The enhanced photocatalytic efficiency is mainly depended on the materials improvement. However, the design of photoreactors lags behind the development of photocatalysts, which strongly limit the widespread use of photocatalysis technology in environmental remediation. The nanoparticles separation, mass transfer limitation, and photonic efficiency have always been problematic and restrict the high photocatalytic efficiency of photoreactors. To overcome these bottleneck problems, the most popular or newfangled designs of photoreactors employed in air and water treatment has been reviewed. The purpose of this review is to systematize designs and synthesis of innovative TiO2-based photoreactors and provides detailed survey and discussion on the enhanced mechanism of photocatalytic performance in different TiO2-based photoreactors. The most studied photoreactors are the following: packed bed reactor, film reactor and membrane reactor, which have some limitations and advantages. A comprehensive comparison between the different photocatalytic performance of TiO2-based photoreactors is presented. This work aims to summarize the progress of TiO2-based photoreactors and provides useful information for the further research and development of photocatalysis for water and air purification.",
 "url": "https://doi.org/10.3390/catal12070724",
 "tier": null,
@@ -632,7 +632,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4319982136": {
@@ -654,7 +654,7 @@
 "Florica Papa",
 "Ioan Balint"
 ],
-"citations": 392,
+"citations": 400,
 "abstract": "It is well-documented that large-scale pollution generated by human activity has a dramatic impact on ecosystems. In this context, removing harmful chemicals via photocatalysis has tremendous potential as a depollution method, utilizing freely available solar light and catalytic materials with low or negligible ecotoxicity. The main drawbacks, which aren’t often addressed in the available literature, are the formation of harmful intermediate products, low reaction rates, limited catalyst stability, and difficult catalyst recovery. In most cases, published works assess the efficiency of tested photocatalysts from pollutant degradation studies, whereas identifying and quantifying by-products is not often conducted. This review summarizes the recent advances reported for the photocatalytic removal of some organic (e.g., alcohols, carboxylic acids, volatile organic compounds, phenol) and inorganic (e.g., NO3−) contaminants. The efficiency of various UV- and visible-light active photocatalysts and the reaction degradation pathways were explained, emphasizing the main factors contributing to their mineralization. The reaction mechanisms, the identification and quantification of degradation intermediates, and the implication of reactive active species (ROS) were discussed and analyzed for each category of model target pollutant. Additionally, the actual challenges and future photocatalytic approaches to improve environmental remediation were presented.",
 "url": "https://doi.org/10.3390/catal13020380",
 "tier": null,
@@ -668,7 +668,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3162826467": {
@@ -704,7 +704,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4297028327": {
@@ -727,7 +727,7 @@
 "Marta Fonseca Gabriel",
 "Gabriela Ventura Silva"
 ],
-"citations": 176,
+"citations": 178,
 "abstract": "Aims: Indoor air quality (IAQ) has attracted increased attention with the emergence of COVID-19. Ventilation is perhaps the area in which the most changes have been proposed in response to the emergency caused by this virus. However, other strategies are possible, such as source control and the extraction of pollutants. The latter incorporates clean technologies, an emergent area with respect to IAQ. Method: Various air treatment technologies can be used to control contaminants, which are reviewed and discussed in this work, including physicochemical technologies (e.g., filtration, adsorption, UV-photocatalytic oxidation, ultraviolet disinfection and ionization) and biological technologies (e.g., plant purification methods and microalgae-based methods). Results and interpretation: This work reviews currently available solutions and technologies for “cleaning” indoor air, with a focus on their advantages and disadvantages. One of the most common problems in this area is the emission of pollutants that are sometimes more dangerous to human health than those that the technologies were developed to remove. Another aspect to consider is the limitation of each technology in relation to the type of pollutants that need to be removed. Each of the investigated technologies works well for a family of pollutants with similar characteristics, but it is not applicable to all pollutant types. Thus, the optimal solution may involve the use of a combination of technologies to extend the scope of application, in addition to the development of new materials, for example, through the use of nanotechnology.",
 "url": "https://doi.org/10.3390/environments9090118",
 "tier": null,
@@ -739,7 +739,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4407228156": {
@@ -762,7 +762,7 @@
 "Pierluigi Barbieri",
 "Elia Marin"
 ],
-"citations": 32,
+"citations": 33,
 "abstract": "Since people spend most of their time in indoor environments, they are continuously exposed to various contaminants that threaten human health. The air quality in these settings is therefore a crucial factor in maintaining health safety. In order to reduce the concentration of indoor air pollutants and improve air quality, photocatalytic oxidation has drawn the attention of researchers. This study aims to provide a comprehensive view of the nanomaterials used in the photocatalytic oxidation of the most common pollutants in indoor environments. The effects of various parameters like humidity, airflow, deposition time, and light intensity were also evaluated, as they can significantly influence photocatalytic reactions. The most common nanomaterials used in photocatalysis are TiO2-based and, in this study, they were classified and examined based on their morphology. TiO2 doping with metals and non-metals has demonstrated an enhancement of its adsorption properties and photocatalytic efficiency for the removal of several pollutants. The role of carbon-based nanomaterials in photocatalysis was also evaluated due to their adsorption capabilities towards various pollutants. In addition, other less common photocatalysts such as ZnO, MnO2, WO3, CeO2, and CdS also exhibited high photocatalytic activity for pollutant degradation. Applications of these photocatalysts in air purifiers, paints, and building materials e.g., concrete, glass, and wallpapers, lead to efficient reduction of pollutants in indoor settings.",
 "url": "https://doi.org/10.3390/app15031629",
 "tier": null,
@@ -779,7 +779,7 @@
 "lab_score": 40,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3121053350": {
@@ -809,7 +809,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4380989102": {
@@ -845,7 +845,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4404548911": {
@@ -873,7 +873,7 @@
 "Jia-Yu Kuo",
 "Pei‐Shih Chen"
 ],
-"citations": 7,
+"citations": 8,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jhazmat.2024.136573",
 "tier": "tier4",
@@ -887,7 +887,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4409395388": {
@@ -917,7 +917,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4390129364": {
@@ -951,7 +951,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7167630424": {
@@ -982,7 +982,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4319869460": {
@@ -1018,7 +1018,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4293252061": {
@@ -1050,7 +1050,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4412205219": {
@@ -1082,7 +1082,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7124949143": {
@@ -1119,7 +1119,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3160773632": {
@@ -1150,7 +1150,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7201882561": {
@@ -1182,7 +1182,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7118596501": {
@@ -1221,7 +1221,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3015305823": {
@@ -1258,7 +1258,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7125219738": {
@@ -1290,7 +1290,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7167903575": {
@@ -1327,7 +1327,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3176037358": {
@@ -1362,7 +1362,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4403117705": {
@@ -1395,7 +1395,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4284977937": {
@@ -1416,7 +1416,7 @@
 "Mohammad Hossein Rasoulifard",
 "İsmail Koyuncu"
 ],
-"citations": 202,
+"citations": 203,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.chemosphere.2022.135655",
 "tier": "tier4",
@@ -1428,7 +1428,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4200560996": {
@@ -1447,7 +1447,7 @@
 "Elena David",
 "Violeta‐Carolina Niculescu"
 ],
-"citations": 509,
+"citations": 518,
 "abstract": "Volatile organic compounds (VOCs) comprise various organic chemicals which are released as gases from different liquids or solids. The nature and impact of the health effects are dependent on the VOCs concentrations and, also, on the exposure time. VOCs are present in different household, industrial or commercial and products, but their accumulation in air and water has primarily gained attention. Among VOCs, trichloroethylene and vinyl chloride are the most toxic and carcinogenic compounds. In order to improve the indoor air and water quality, VOCs can be removed via efficient approaches involving nanomaterials, by using techniques such as adsorption, catalysis or photocatalysis. In the recent years, the development of manufacturing procedures, characterization techniques and testing processes has resulted in the growth of na-nomaterials obtaining and applications, creating great possibilities and also a tremendous prov-ocation in applying them for highly efficient VOCs removal. This review is intended to contrib-ute to the improvement of awareness and knowledge on the great potential that nanomaterials have in VOCs removal, in order a to improve indoor and outdoor environment, but also the worldwide water sources.",
 "url": "https://doi.org/10.3390/ijerph182413147",
 "tier": null,
@@ -1459,7 +1459,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4310016295": {
@@ -1477,7 +1477,7 @@
 "authors": [
 "Yafei Shen"
 ],
-"citations": 120,
+"citations": 123,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.fuel.2022.126801",
 "tier": null,
@@ -1489,7 +1489,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4382249153": {
@@ -1528,7 +1528,7 @@
 "lab_score": 40,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4391070124": {
@@ -1549,7 +1549,7 @@
 "Hisayoshi Kobayashi",
 "Shinya Higashimoto"
 ],
-"citations": 62,
+"citations": 63,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2024.123745",
 "tier": "tier3",
@@ -1563,7 +1563,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4206200503": {
@@ -1583,7 +1583,7 @@
 "Haibao Huang",
 "Dennis Y.C. Leung"
 ],
-"citations": 61,
+"citations": 62,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jenvman.2022.114559",
 "tier": null,
@@ -1595,7 +1595,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4323669580": {
@@ -1626,7 +1626,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4390100256": {
@@ -1662,7 +1662,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4226265941": {
@@ -1695,7 +1695,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4401434510": {
@@ -1737,7 +1737,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4410069051": {
@@ -1758,7 +1758,7 @@
 "Bin Zhu",
 "Xiaomin Zhang"
 ],
-"citations": 24,
+"citations": 27,
 "abstract": "Volatile organic compound (VOC) emissions have become a critical environmental concern due to their contributions to photochemical smog formation, secondary organic aerosol generation, and adverse human health impacts in the context of accelerated industrialization and urbanization. Catalytic oxidation over perovskite-type catalysts is an attractive technological approach for efficient VOC abatement. This review systematically evaluates the advancements in perovskite-based catalysts for VOC oxidation, focusing on their crystal structure-activity relationships, electronic properties, synthetic methodologies, and nanostructure engineering. Emphasis is placed on metal ion doping strategies and supported catalyst configurations, which have been demonstrated to optimize catalytic performance through synergistic effects. The applications of perovskite catalysts in diverse oxidation systems, including photocatalysis, thermal catalysis, electrocatalysis, and plasma-assisted catalysis, are comprehensively discussed with critical analysis of their respective advantages and limitations. It summarizes the existing challenges, such as catalyst deactivation caused by carbon deposition, sulfur/chlorine poisoning, and thermal sintering, as well as issues like low energy utilization efficiency and the generation of secondary pollutants. By consolidating current knowledge and highlighting future research directions, this review provides a solid foundation for the rational design of next-generation perovskite catalysts for sustainable VOC management.",
 "url": "https://doi.org/10.3390/nano15090685",
 "tier": null,
@@ -1773,7 +1773,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4411917368": {
@@ -1798,7 +1798,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4394682168": {
@@ -1828,7 +1828,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3048314055": {
@@ -1870,7 +1870,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214079232": {
@@ -1899,7 +1899,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3210417878": {
@@ -1920,7 +1920,7 @@
 "Myoung Won Chung",
 "Wonyong Choi"
 ],
-"citations": 115,
+"citations": 118,
 "abstract": "Abstract Photocatalytic air purification is widely regarded as a promising technology, but it calls for more efficient photocatalytic materials and systems. Here we report a strategy to introduce an in-situ water (self-wetting) layer on WO 3 by coating hygroscopic periodic acid (PA) to dramatically enhance the photocatalytic removal of hydrophilic volatile organic compounds (VOCs) in air. In ambient air, water vapor is condensed on WO 3 to make a unique tri-phasic (air/water/WO 3 ) system. The in-situ formed water layer selectively concentrates hydrophilic VOCs. PA plays the multiple roles as a water-layer inducer, a surface-complexing ligand enhancing visible light absorption, and a strong electron acceptor. Under visible light, the photogenerated electrons are rapidly scavenged by periodate to produce more •OH. PA/WO 3 exhibits excellent photocatalytic activity for acetaldehyde degradation with an apparent quantum efficiency of 64.3% at 460 nm, which is the highest value ever reported. Other hydrophilic VOCs like formaldehyde that are readily dissolved into the in-situ water layer on WO 3 are also rapidly degraded, whereas hydrophobic VOCs remain intact during photocatalysis due to the “water barrier effect”. PA/WO 3 successfully demonstrated an excellent capacity for degrading hydrophilic VOCs selectively in wide-range concentrations (0.5−700 ppmv).",
 "url": "https://doi.org/10.1038/s41467-021-26541-z",
 "tier": "tier2",
@@ -1938,7 +1938,7 @@
 "lab_score": 18,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4308771546": {
@@ -1962,7 +1962,7 @@
 "Jiantao Li",
 "Dennis Y.C. Leung"
 ],
-"citations": 146,
+"citations": 148,
 "abstract": "Photocatalysis is regarded as one of the most promising technologies for indoor volatile organic compounds (VOCs) elimination due to its low cost, safe operation, energy efficiency, and high mineralization efficiency under ambient conditions. However, the practical applications of this technology are limited, despite considerable research efforts in recent decades. Until now, most of the works were carried out in the laboratory and focused on exploring new catalytic materials. Only a few works involved the immobilization of catalysts and the design of reactors for practical applications. Therefore, this review systematically summarizes the research and development on photocatalytic oxidation (PCO) of VOCs, with emphasis on recent catalyst's immobilization and reactor designs in detail. First, different types of photocatalytic materials and the mechanisms for PCO of VOCs are briefly discussed. Then, both the catalyst's immobilization techniques and reactor designs are reviewed in detail. Finally, the existing challenges and future perspectives for PCO of VOCs are proposed. This work aims to provide updated information and research inspirations for the commercialization of this technology in the future.",
 "url": "https://doi.org/10.1021/acs.est.2c05444",
 "tier": "tier4",
@@ -1976,7 +1976,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3091361900": {
@@ -1994,7 +1994,7 @@
 "Alexandru Eneşca",
 "Cristina Cazan"
 ],
-"citations": 31,
+"citations": 33,
 "abstract": "The impact of volatile organic compounds (VOCs) on indoor air quality and, furthermore, on human health is still a subject of research investigations considering the large increase in forms of cancer and related diseases. VOCs can be 10 times higher in indoor air concentrations then that of the outdoors, as a consequence of emissions from electronics, building materials and consumer goods. Direct transformation of VOCs in mineralization products seems to be an alternative to reduce indoor air contaminants. The advantage of photocatalysis implementation in indoor air treatment is given by the absence of additional chemicals (such as H2O2) and waste. The present mini-review presents a comparative study on VOCs photocatalytic removal considering the photocatalyst composition, morphology and specific surface. The sheet-like morphology seems to provide a higher number of active sites which may contribute to oxidative reactions. The insertion of materials able to increase light absorbance or to mediate the charge carrier’s transport will have a beneficial impact on the overall photocatalytic efficiency. Additionally, surface chemistry must be considered when developing photocatalysts for certain gas pollutants in order to favor molecule absorbance in the interfacial region. An energy consumption perspective is given based on the light intensity and irradiation period.",
 "url": "https://doi.org/10.3390/nano10101965",
 "tier": null,
@@ -2006,7 +2006,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4294169786": {
@@ -2029,7 +2029,7 @@
 "Xufang Qian",
 "Zhenfeng Bian"
 ],
-"citations": 27,
+"citations": 28,
 "abstract": "The health and environmental problems caused by volatile organic compounds (VOCs) have attracted wide attention. Photocatalytic technology provides a green and sustainable way for VOCs removal. How to build a highly efficient and stable photocatalyst is of great significance to promote the practical application of photocatalysis technology. In this review, the literatures on photocatalytic oxidation in VOCs are surveyed and systematically categorized based on the types of photocatalytic materials. The methods of improving photocatalytic activity are studied, and the deactivation process of photocatalyst is discussed. Finally, the reaction mechanism is summarized according to the charge separation process and the classification of reactive oxygen species.",
 "url": "https://doi.org/10.1002/aesr.202200105",
 "tier": null,
@@ -2044,7 +2044,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4291111107": {
@@ -2084,7 +2084,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4386483625": {
@@ -2125,7 +2125,7 @@
 "lab_score": 45,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3202802266": {
@@ -2150,7 +2150,7 @@
 "Xiaofeng Xie",
 "Jing Sun"
 ],
-"citations": 155,
+"citations": 156,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cej.2021.132766",
 "tier": "tier3",
@@ -2162,7 +2162,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3034254466": {
@@ -2198,7 +2198,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4212969106": {
@@ -2238,7 +2238,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213484258": {
@@ -2276,7 +2276,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3039967577": {
@@ -2315,7 +2315,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3157552474": {
@@ -2347,7 +2347,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3000076595": {
@@ -2383,7 +2383,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4392956584": {
@@ -2428,7 +2428,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4402356360": {
@@ -2466,7 +2466,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4415818606": {
@@ -2486,7 +2486,7 @@
 "Milad Jourshabani",
 "Byeong‐Kyu Lee"
 ],
-"citations": 2,
+"citations": 3,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jhazmat.2025.140366",
 "tier": "tier4",
@@ -2502,7 +2502,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3041233689": {
@@ -2539,7 +2539,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3122361522": {
@@ -2562,7 +2562,7 @@
 "Miao-Ting Liu",
 "Keizo Nakagawa"
 ],
-"citations": 108,
+"citations": 111,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.carbon.2021.01.112",
 "tier": null,
@@ -2577,7 +2577,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7165790008": {
@@ -2614,7 +2614,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4320717524": {
@@ -2639,7 +2639,7 @@
 "Sehyeong Oh",
 "Hyun Chul Lee"
 ],
-"citations": 106,
+"citations": 108,
 "abstract": "Conventional studies on photocatalytic oxidation reaction have focused primarily on hydroxyl radical (•OH) as a major reactive oxygen species (ROS). This perspective may not be suitable for gaseous HCHO photodegradation due to the short lifetime and diffusion length of •OH. Identification of divergent ROS and understanding their characteristics for the gas-phase photocatalytic oxidation are further required. Here, we report a BiOI/TiO2 p-n junction photocatalyst, which uses mobile singlet oxygen (1O2) as the main ROS for gaseous HCHO photooxidation. The introduction of p-n heterojunctions causes a charge transfer that prefers mobile 1O2 generation rather than •OH due to an energetically favorable desorption free energy, accelerating HCHO oxidation. Finally, we demonstrated the photocatalytic filter performance of HCHO-to-CO2 conversion for 150 h with a conversion efficiency of 87 ± 1.3 % in a single-pass reactor. Our systematic study reveals the potential of the overlooked 1O2-driven gaseous HCHO photocatalytic degradation process.",
 "url": "https://doi.org/10.1016/j.apcatb.2023.122463",
 "tier": "tier3",
@@ -2658,7 +2658,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4206959752": {
@@ -2691,7 +2691,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4378364482": {
@@ -2713,7 +2713,7 @@
 "Sherif A. Younis",
 "Ki‐Hyun Kim"
 ],
-"citations": 47,
+"citations": 48,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cej.2023.143718",
 "tier": "tier3",
@@ -2729,7 +2729,7 @@
 "lab_score": 28,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4280514231": {
@@ -2750,7 +2750,7 @@
 "Deepak Kukkar",
 "Ki‐Hyun Kim"
 ],
-"citations": 51,
+"citations": 52,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cis.2022.102696",
 "tier": null,
@@ -2764,7 +2764,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3121791365": {
@@ -2805,7 +2805,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4386831805": {
@@ -2837,7 +2837,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3125788736": {
@@ -2860,7 +2860,7 @@
 "Yi Zhu",
 "Mingshan Zhu"
 ],
-"citations": 375,
+"citations": 376,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cej.2021.128555",
 "tier": "tier3",
@@ -2876,7 +2876,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3132327966": {
@@ -2914,7 +2914,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3033964054": {
@@ -2944,7 +2944,7 @@
 "Su Shiung Lam",
 "…"
 ],
-"citations": 136,
+"citations": 137,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jclepro.2020.121912",
 "tier": null,
@@ -2958,7 +2958,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3049747355": {
@@ -2982,7 +2982,7 @@
 "Jinghui He",
 "Jianmei Lu"
 ],
-"citations": 372,
+"citations": 374,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2020.119409",
 "tier": "tier3",
@@ -2998,7 +2998,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3032164693": {
@@ -3035,7 +3035,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4400312134": {
@@ -3070,7 +3070,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4383873710": {
@@ -3107,7 +3107,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4290994236": {
@@ -3132,7 +3132,7 @@
 "Zhongchao Tan",
 "Hesheng Yu"
 ],
-"citations": 59,
+"citations": 60,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.carbon.2022.08.031",
 "tier": null,
@@ -3147,7 +3147,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4411928711": {
@@ -3166,7 +3166,7 @@
 "Reshalaiti Hailili",
 "Yiming Gan"
 ],
-"citations": 20,
+"citations": 22,
 "abstract": ") severely threaten human health and ecosystems. Photocatalytic technology offers a promising solution for eliminating low-concentration yet highly toxic NO. However, it faces challenges in catalyst stability, control of intermediate and final products, reaction selectivity, and disclosure of interfacial mechanisms. The key to surmounting these hurdles is effective carrier separation, vital for distinct redox reactions in photocatalysts. Additionally, the charge carrier efficiency (formation, transfer, separation, and further dynamics) and catalyst photocorrosion upon light irradiation significantly influence the photocatalytic performance and long-term stability of metal oxide-based systems. Heterojunctions, with their superior charge carrier separation efficiency, can effectively regulate the reaction pathways during NO conversion. Moreover, heterojunction engineering has been proven to mitigate photocorrosion by optimizing interfacial charge transfer and reducing the level of charge accumulation on vulnerable active sites. Despite the proliferation of reviews on photocatalytic heterojunctions, a critical gap exists in works that systematically unify the classification, synthesis, and application of diverse heterojunctions specifically for NO removal, while explicitly linking multiscale interfacial engineering, e.g., atomic-level defects, nanoscale band alignment, molecular adsorption to the precise control of reaction pathways and selectivity. Addressing this gap, this review establishes an innovative, unified framework that integrates heterojunction principles, classifications, and construction methods with their operational performance in NO removal, with an emphasis on their latest advancements. Uniquely, it maps design strategies directly to overcome real-world bottlenecks, such as byproduct suppression, relative humidity resistance, and selectivity enhancement. It interprets the state-of-the-art applications, highlighting how interfacial engineering synergistically enhances carrier efficiency and product control. By emphasizing the significance of improving carrier efficiency and controlling intermediate/final product formation by reactive oxygen species generation, this review provides valuable insights to guide future research toward securing higher NO conversions and reaction selectivity. Additionally, it lays the groundwork for the development of more effective and eco-friendly environmental cleanup technologies.",
 "url": "https://doi.org/10.1021/acsami.5c06606",
 "tier": null,
@@ -3184,7 +3184,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7170133509": {
@@ -3221,7 +3221,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3025632135": {
@@ -3259,7 +3259,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3002778649": {
@@ -3285,7 +3285,7 @@
 "Hexing Li",
 "Dieqing Zhang"
 ],
-"citations": 139,
+"citations": 140,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2020.118687",
 "tier": "tier3",
@@ -3299,7 +3299,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4388205198": {
@@ -3326,7 +3326,7 @@
 "Wei Chen",
 "Dieqing Zhang"
 ],
-"citations": 63,
+"citations": 66,
 "abstract": "Abstract Semiconductor photocatalytic technology holds promise in efficiently reducing low concentrations of gaseous nitric oxide (NO). However, the suboptimal selectivity in NO removal, leading to the undesired production of NO2 byproducts, poses a challenge. In this study, a defective CdS/Na2Ti3O7 heterostructure is rationally designed with strong electronic interaction and intimate interface contact for promoting charge transfer kinetics. This design refines reactive oxygen species (ROS) generation, resulting in an impressive 81% NO elimination and 99.7% selectivity toward nitrates. Detailed mechanistic studies reveal an intriguing catalysis scenario in which reactant molecules are selectively adsorbed and activated at different sites. Anionic vacancies on the CdS/Na2Ti3O7 surface render the activation of molecular O2 to reactive superoxide radicals (O2 −) species. Furthermore, intrinsic surface basicity and O vacancy sites of the Na2Ti3O7 cocatalyst facilitate the capture and activation of acidic nitrogen oxides (NOx) molecules as nitrate species, contributing to enhanced catalytic activity and selectivity. As a result, anionic vacancies and basic sites over CdS/Na2Ti3O7 heterostructure synergistically regulate the NOx oxidation pathway, refining the products toward nitrate with remarkable selectivity. These insights guide the development of advanced photocatalytic systems for environmental remediation, highlighting the importance of managing ROS production for efficient pollutant removal.",
 "url": "https://doi.org/10.1002/adfm.202309426",
 "tier": "tier2",
@@ -3341,7 +3341,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4415666774": {
@@ -3368,7 +3368,7 @@
 "Chuanbo Li",
 "Faheem K. Butt"
 ],
-"citations": 2,
+"citations": 3,
 "abstract": "",
 "url": "https://doi.org/10.1007/s11664-025-12455-9",
 "tier": null,
@@ -3382,7 +3382,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4407636141": {
@@ -3405,7 +3405,7 @@
 "John T. S. Irvine",
 "Chengsheng Ni"
 ],
-"citations": 12,
+"citations": 13,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jhazmat.2025.137633",
 "tier": "tier4",
@@ -3420,7 +3420,7 @@
 "lab_score": 16,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4403074361": {
@@ -3458,7 +3458,7 @@
 "lab_score": 18,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3010616992": {
@@ -3497,7 +3497,7 @@
 "lab_score": 23,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4225758900": {
@@ -3536,7 +3536,7 @@
 "lab_score": 33,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4286268017": {
@@ -3571,7 +3571,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4415907739": {
@@ -3594,7 +3594,7 @@
 "Jiupai Ni",
 "Chengsheng Ni"
 ],
-"citations": 2,
+"citations": 3,
 "abstract": "BiVO 4 has garnered significant attention as a photocatalyst for water splitting and environmental remediation. The photocatalysis over BiVO 4 could be adjusted by the exposed facet but has not been explored over the NO abatement in ambient air. In this work, four distinct morphologies of monoclinic BiVO 4 crystals were hydrothermally synthesized by modulating the pH of the precursor solution. Among these, the sample with the preferentially exposed {040} facet exhibited a platelike fragmented morphology and demonstrated superior NO photocatalytic oxidation (79% removal rate) under visible light (>420 nm) over the one with the preferentially exposed {110} facet. Compared to the {110} facet, the {040} facet of BiVO 4 was more stable against oxygen vacancy formation and V 5+ reduction to V 4+ that could create a shallow midgap state. This higher stability, along with its higher flat-band energy, promotes the creation of superoxide radicals that are crucial for the thorough oxidation of NO. Singlet oxygen was found to be quite important in the oxidation of NO because NO 2 was produced even if water is absent in the air. This study highlights the considerable potential of BiVO 4 -based catalysts for efficient atmospheric pollutant degradation.",
 "url": "https://doi.org/10.1021/acs.inorgchem.5c04364",
 "tier": null,
@@ -3608,7 +3608,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4224308295": {
@@ -3627,7 +3627,7 @@
 "Haruki Nagakawa",
 "Morio Nagata"
 ],
-"citations": 37,
+"citations": 38,
 "abstract": "High Resolution Image Download MS PowerPoint Slide Hydrogen sulfide (H 2 S) is a highly toxic and corrosive gas that causes a foul odor even at very low concentrations [several parts per billion (ppb)]. However, industrially discharged H 2 S has a concentration range of several tens of ppb to several parts per million (ppm), which conventional methods are unable to process. Therefore, advanced and sustainable methods for treating very low concentrations of H 2 S are urgently needed. TiO 2 -based photocatalysts are eco-friendly and have the ability to treat environmental pollutants, such as low-concentration gases, using light energy. However, there are no reports on H 2 S decomposition or oxidation at concentrations below several ppb. Therefore, in this study, we employed anatase/TiO 2 (B) nanotubes, which have a high specific surface area and an efficient charge-transfer interface, to treat H 2 S. We successfully reduced 10 ppm of H 2 S to 1 ppb or less at a kinetic rate of 75 μmol h –1 g –1 . The suitability of our method was further demonstrated by the generation of sulfate ions and sulfur (as detected by X-ray photoelectron spectroscopy and ion chromatography), which are industrially useful as oxidation products, whereas sulfur dioxide, a harmful substance, was not produced. This is the first study to report H 2 S decomposition down to the ppb level, providing meaningful solutions for malodor problems and potential health hazards associated with H 2 S.",
 "url": "https://doi.org/10.1021/acsomega.1c07294",
 "tier": null,
@@ -3643,7 +3643,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3158358791": {
@@ -3666,7 +3666,7 @@
 "Peiyang Li",
 "Chumki Banik"
 ],
-"citations": 21,
+"citations": 22,
 "abstract": "UV-A (ca. 365 nm wavelength, a.k.a. ‘black light’) photocatalysis has been investigated to comprehensively mitigate odor and selected air pollutants in the livestock environment. This study was conducted to confirm the performance of UV-A photocatalysis on the swine farm. The objectives of this research were to (1) scale-up of the UV-A photocatalysis treatment, (2) evaluate the mitigation of odorous gases from swine slurry pit, (3) test different UV sources, (4) evaluate the effect of particulate matter (PM) and (5) conduct preliminary economic analyses. We tested UV-A photocatalysis at a mobile laboratory-scale capable of treating ~0.2–0.8 m3·s−1 of barn exhaust air. The targeted gaseous emissions of barn exhaust air were significantly mitigated (p < 0.05) up to 40% reduction of measured odor; 63%, 44%, 32%, 40%, 66% and 49% reduction of dimethyl disulfide, isobutyric acid, butanoic acid, p-cresol, indole and skatole, respectively; 40% reduction of H2S; 100% reduction of O3; and 13% reduction of N2O. The PM mitigation effect was not significant. Formaldehyde levels did not change, and a 21% generation of CO2 was observed. The percent reduction of targeted gases decreased as the airborne PM increased. Simultaneous chemical and sensory analysis confirmed that UV-A treatment changed the overall nuisance odor character of swine barn emissions into weaker manure odor with ‘toothpaste and ‘mint’ notes. The smell of benzoic acid generated in UV-A treatment was likely one of the compounds responsible for the less-offensive overall odor character of the UV-treated emissions. Results are needed to inform the design of a farm-scale trial, where the interior barn walls can be treated with the photocatalyst.",
 "url": "https://doi.org/10.3390/atmos12050585",
 "tier": null,
@@ -3682,7 +3682,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4406931372": {
@@ -3700,7 +3700,7 @@
 "Tomofumi Katayama",
 "Morio Nagata"
 ],
-"citations": 6,
+"citations": 7,
 "abstract": "Hydrogen sulfide is a toxic gas known for its foul odor and health risks, even at significantly low concentrations. Although its decomposition at high concentrations is common in industrial processes, decomposing it at low concentrations is difficult. One of the difficulties is that sulfate ions generated during the reaction would poison the catalyst and reduce efficiency. Here, we show the gas-phase decomposition of low-concentration hydrogen sulfide using a high-activity photocatalyst, and to counter the poisoning problem, molybdenum is introduced through a novel photosupporting method that utilizes the characteristics of photocatalysts. In this study, we demonstrate a novel molybdenum-loaded catalyst for gas-phase photocatalytic hydrogen sulfide decomposition and its high performance: zero-out of 10 ppm of hydrogen sulfide. Moreover, the catalyst can be regenerated through photocatalytic reduction, keeping decomposing hydrogen sulfide to nearly odorless levels. The study provides a simple and sustainable photocatalytic process for removing low-concentration hydrogen sulfide, effectively preventing catalyst poisoning and enabling catalyst regeneration; thus, this suggests enhancing air quality and reducing health risks associated with this toxic gas in industrial and urban environments.",
 "url": "https://doi.org/10.1021/acsomega.4c09395",
 "tier": null,
@@ -3715,7 +3715,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7118893544": {
@@ -3755,7 +3755,7 @@
 "lab_score": 43,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3133830493": {
@@ -3778,7 +3778,7 @@
 "Peiyang Li",
 "Chumki Banik"
 ],
-"citations": 19,
+"citations": 20,
 "abstract": "It is essential to mitigate gaseous emissions that result from poultry and livestock production to increase industry sustainability. Odorous volatile organic compounds (VOCs), ammonia (NH3), hydrogen sulfide (H2S), and greenhouse gases (GHGs) have detrimental effects on the quality of life in rural communities, the environment, and climate. This study's objective was to evaluate the photocatalytic UV treatment of gaseous emissions of odor, odorous VOCs, NH3, and other gases (GHGs, O3 – sometimes considered as by-products of UV treatment) from stored swine manure on a pilot-scale. The manure emissions were treated in fast-moving air using a mobile lab equipped with UV-A and UV-C lights and TiO2-based photocatalyst. Treated gas airflow (0.25 to 0.76 m3/s) simulates output from a small ventilation fan in a barn. Through controlling the light intensity and airflow, UV dose was tested for techno-economic analyses. The treatment effectiveness depended on the UV dose and wavelength. Under UV-A (367 nm) photocatalysis, the percent reduction of targeted gases was up to i) 63% of odor, ii) 51%, 51%, 53%, 67%, and 32% of acetic acid, propanoic acid, butanoic acid, p-cresol, and indole, respectively, iii) 14% of nitrous oxide (N2O), iv) 100% of O3, and 26% generation of CO2. Under UV-C (185+254 nm) photocatalysis, the percent reductions of target gases were up to i) 54% and 47% for p-cresol and indole, respectively, ii) 25% of N2O, iii) 71% of CH4, and 46% & 139% generation of CO2 & O3, respectively. The results proved that the UV technology was sufficiently effective in treating odorous gases, and the mobile lab was ready for farm-scale trials. The UV technology can be considered for the scaled-up treatment of emissions and air quality improvement inside livestock barns.",
 "url": "https://doi.org/10.3390/ani11051289",
 "tier": null,
@@ -3794,7 +3794,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4377969080": {
@@ -3839,7 +3839,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4387939056": {
@@ -3857,7 +3857,7 @@
 "Tomofumi Katayama",
 "Morio Nagata"
 ],
-"citations": 8,
+"citations": 9,
 "abstract": "Abstract Hydrogen sulfide (H 2 S) is a toxic gas generated by chemical and geothermal power plants and has an unpleasant odor. Even low concentrations of H 2 S can cause odor problems upon release into the atmosphere; therefore, the efficient removal of H 2 S is required. Photocatalytic H 2 S decomposition methods have been extensively investigated because they are energy‐efficient; however, most methods involve the degradation of a sacrificial reagent after alkaline adsorption and gas‐phase decomposition at relatively high concentrations of 100 ppm or more. Although H 2 S decomposition by TiO 2 under low‐concentration conditions has been reported, H 2 S is decomposed by ultraviolet (UV) light irradiation because TiO 2 is unresponsive to visible light. In this study, a composite catalyst is synthesized to achieve the gas‐phase decomposition of low‐concentration hydrogen sulfide under visible light. By combining carbon nitride (g‐C 3 N 4 ) with a cadmium sulfide (CdS) photocatalyst, a g‐C 3 N 4 /CdS catalyst is obtained, which reduces 10 ppm H 2 S to less than 1 ppm. This effective and simple photocatalyst is suitable for mitigating the odor issue related to H 2 S.",
 "url": "https://doi.org/10.1002/slct.202302709",
 "tier": null,
@@ -3872,7 +3872,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3033963758": {
@@ -3916,7 +3916,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3127965553": {
@@ -3959,7 +3959,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7168180086": {
@@ -3992,7 +3992,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4285734027": {
@@ -4026,7 +4026,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4308043184": {
@@ -4061,7 +4061,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4383618329": {
@@ -4102,7 +4102,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4220799800": {
@@ -4139,7 +4139,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4414314614": {
@@ -4176,7 +4176,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3026795537": {
@@ -4207,7 +4207,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3085796855": {
@@ -4243,7 +4243,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3046279560": {
@@ -4268,7 +4268,7 @@
 "Chumki Banik",
 "William S. Jenks"
 ],
-"citations": 32,
+"citations": 33,
 "abstract": "Poultry farmers are producing eggs, meat, and feathers with increased efficiency and lower carbon footprint. Technologies to address concerns about the indoor air quality inside barns and the gaseous emissions from farms to the atmosphere continue to be among industry priorities. We have been developing and scaling up a UV air treatment that has the potential to reduce odor and other gases on the farm-scale. In our recent laboratory-scale study, the use of UV-A (a less toxic ultraviolet light, a.k.a. ‘black light’) and a special TiO2-based photocatalyst reduced concentrations of several important air pollutants (NH3, CO2, N2O, O3) without impact on H2S & CH4. Therefore, the objectives of this research were to (1) scale-up of the UV treatment to pilot-scale, (2) evaluate the mitigation of odor and odorous VOCs, and (3) complete preliminary economic analyses. A pilot-scale experiment was conducted under commercial poultry barn conditions to evaluate photocatalyst coatings on surfaces subjected to UV light under field conditions. In this study, the reactor was constructed to support interchangeable wall panels and installed on a poultry farm. The effects of a photocatalyst’s presence (photocatalysis & photolysis), UV intensity (LED & fluorescent), and treatment time we studied in the pilot-scale experiments inside a poultry barn. The results of pilot-scale experiments were consistent with the lab-scale: the % reduction under photocatalysis was generally higher than photolysis. In addition, the % reduction of target gases at a high light intensity and long treatment time was higher. The % reduction of NH3 was 5~9%. There was no impact on H2S, CH4, and CO2 under any experimental conditions. N2O & O3 concentrations were reduced at 6~12% & 87~100% by both photolysis & photocatalysis. In addition, concentrations of several VOCs responsible for livestock odor were reduced from 26~62% and increased with treatment time & light intensity. The odor was reduced by 18%. Photolysis treatment reduced concentrations of N2O, VOCs, and O3, only. The initial economic analysis has shown that LEDs are more efficient than fluorescent lights. Further scale-up and research at farm-scale are warranted.",
 "url": "https://doi.org/10.3389/fchem.2020.00613",
 "tier": null,
@@ -4284,7 +4284,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4411728775": {
@@ -4322,7 +4322,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4290988884": {
@@ -4357,7 +4357,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3006686527": {
@@ -4393,7 +4393,7 @@
 "lab_score": 56,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3041047299": {
@@ -4413,7 +4413,7 @@
 "Fan Dong",
 "Dimitrios A. Giannakoudakis"
 ],
-"citations": 86,
+"citations": 87,
 "abstract": "The unbridled expansion of advanced agricultural and industrial facilities has led to the release of large amounts of ammonia (NH 3 ), one of the most pernicious malodorants. Photocatalytic approaches have attracted widespread attention as promising options to turn pollutants into environmentally benign end products under favorable operating conditions. Although most approaches rely on the titanium dioxide (TiO 2 ) structures, many other engineered photocatalytic materials can also be used to enhance overall efficiency and practicality of such systems. This Review provides a comprehensive overview of the available options for discrete mitigation of NH 3 in gaseous and aqueous matrixes. The performances of photocatalytic materials and systems are compared with respect to quantum and space-time yields. Special attention has been paid to the reaction mechanisms prevalent during photocatalytic removal of NH 3 in each medium coupled with the production of end products (e.g., hydrogen and nitrogen) through NH 3 splitting. The effects of process and operational variables (e.g., irradiation time, relative humidity, mode of operation, and environmental matrix type) on performance are also discussed along with the intrinsic properties of the applied materials (e.g., surface functional sites and structure). Existing obstacles, such as the formation of hazardous byproducts through complicated reaction pathways, are explored along with future challenges.",
 "url": "https://doi.org/10.1021/acscatal.0c02163",
 "tier": "tier3",
@@ -4425,7 +4425,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4225828243": {
@@ -4458,7 +4458,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3199430538": {
@@ -4486,7 +4486,7 @@
 "Shengwei Liu",
 "Haibao Huang"
 ],
-"citations": 83,
+"citations": 84,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2021.120688",
 "tier": "tier3",
@@ -4501,7 +4501,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4405913915": {
@@ -4538,7 +4538,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3174659305": {
@@ -4571,7 +4571,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4362509635": {
@@ -4592,7 +4592,7 @@
 "Dandan Zheng",
 "Can Yang"
 ],
-"citations": 37,
+"citations": 39,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jcis.2023.03.195",
 "tier": null,
@@ -4607,7 +4607,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4401945147": {
@@ -4640,7 +4640,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4393060617": {
@@ -4661,7 +4661,7 @@
 "Ki‐Hyun Kim",
 "Danil W. Boukhvalov"
 ],
-"citations": 19,
+"citations": 20,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.jhazmat.2024.134089",
 "tier": "tier4",
@@ -4676,7 +4676,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4392365362": {
@@ -4713,7 +4713,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4391070719": {
@@ -4737,7 +4737,7 @@
 "Yan Wang",
 "Shaojun Yuan"
 ],
-"citations": 31,
+"citations": 32,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cej.2024.148811",
 "tier": "tier3",
@@ -4752,7 +4752,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3046586208": {
@@ -4772,7 +4772,7 @@
 "Changbin Zhang",
 "Hong He"
 ],
-"citations": 40,
+"citations": 41,
 "abstract": "Excessive emission of ammonia (NH 3 ) gives rise to a number of negative effects on the environment and human health. Photocatalysis is an efficient method to eliminate gaseous NH 3; however, photocatalytic oxidation (PCO) of NH 3 in the visible light region has not been achieved to date. Herein, we test a set of typical visible-light-sensitive photocatalysts (N-TiO 2, g-C 3 N 4, and Ag 3 PO 4 ) for NH 3 oxidation and reveal for the first time that the semiconductor Ag 3 PO 4 can harness visible light to realize ambient NH 3 oxidation. Combining the activity testing results with the photochemical properties of samples, we confirm that photoexcited holes are responsible for triggering the initial key step of NH 3 oxidation (NH 3 to • NH 2 ), and therefore, the redox potential of photoexcited holes plays the decisive role in the reaction. We propose that an active visible light photocatalyst for NH 3 oxidation requires both a suitable band gap for visible light response and a low valence band edge associated with a high oxidation potential for activating NH 3 to • NH 2 . Our findings provide new insights into the PCO of pollutants under visible light and will benefit future design of more efficient visible-light-sensitive photocatalysts.",
 "url": "https://doi.org/10.1021/acs.est.0c02589",
 "tier": "tier4",
@@ -4786,7 +4786,7 @@
 "lab_score": 8,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4414601570": {
@@ -4808,7 +4808,7 @@
 "Samuel Lalthazuala Rokhum",
 "Sakar Mohan"
 ],
-"citations": 2,
+"citations": 3,
 "abstract": "Abstract Lightly and heavily nitrogen (N)‐doped TiO 2 systems (LD‐TO and HD‐TO) were synthesized via ammonia (NH 3 ) gas‐assisted annealing at 450 and 750 °C. XRD patterns showed low‐ and high‐angle shifts for LD‐TO and HD‐TO, indicating lattice expansion (LD‐TO) and contraction in HD‐TO, with a Ti‐oxynitride (TiON) peak in HD‐TO indicating secondary phase segregation. FESEM analysis shows spherical particles (∼30 nm for TO) growing to ∼40–50 nm with a layered structure in doped samples. BET surface areas were 37.8, 41.8, and 27.1 m 2 /g for TO, LD‐TO, and HD‐TO, respectively. XPS confirmed Ti 4+ , O 2‐ , and N doping of ∼5.7% (LD‐TO) and 10.4% (HD‐TO). Optical analysis showed reduced band gaps (3.12 eV for LD‐TO, 3.02 eV for HD‐TO versus 3.21 eV for TO) and improved light absorption. Urbach energies (0.603 meV for LD‐TO; 0.926 meV for HD‐TO) reflected moderate defect density in LD‐TO. Electrochemical measurements indicated enhanced charge transfer, with LD‐TO outperforming HD‐TO in photocurrent response. LD‐TO degraded ∼98% rhodamine B in 150 min and produced H 2 at 935.2 µmol g −1 h −1 under sunlight, compared to 86% degradation and 765.4 µmol g −1 h −1 for HD‐TO. These results highlight that optimal N doping enhances TiO 2 ’s electronic, structural, and photocatalytic properties, while excessive doping leads to secondary phase formation and reduced performance.",
 "url": "https://doi.org/10.1002/asia.70347",
 "tier": null,
@@ -4820,7 +4820,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4308721143": {
@@ -4858,7 +4858,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4281261606": {
@@ -4893,7 +4893,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3081517304": {
@@ -4919,7 +4919,7 @@
 "Qi Zhang",
 "Leipeng Cao"
 ],
-"citations": 207,
+"citations": 208,
 "abstract": "",
 "url": "https://doi.org/10.1007/s11274-020-02921-3",
 "tier": null,
@@ -4931,7 +4931,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4328099285": {
@@ -4954,7 +4954,7 @@
 "Danni Ding",
 "Shaopeng Rong"
 ],
-"citations": 26,
+"citations": 28,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.apcatb.2023.122668",
 "tier": "tier3",
@@ -4966,7 +4966,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7167788475": {
@@ -5006,7 +5006,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3200916030": {
@@ -5049,7 +5049,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4308489225": {
@@ -5090,7 +5090,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4280640970": {
@@ -5133,7 +5133,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4402220526": {
@@ -5168,7 +5168,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4415671631": {
@@ -5206,7 +5206,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3172766638": {
@@ -5242,7 +5242,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3137508375": {
@@ -5277,7 +5277,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4411079297": {
@@ -5316,7 +5316,7 @@
 "lab_score": 28,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4319063201": {
@@ -5355,7 +5355,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4362511094": {
@@ -5393,7 +5393,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4324026576": {
@@ -5423,7 +5423,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7140198209": {
@@ -5461,7 +5461,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W3048160135": {
@@ -5500,7 +5500,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4293092257": {
@@ -5535,7 +5535,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W4390905486": {
@@ -5572,7 +5572,7 @@
 "lab_score": 23,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7220728779": {
@@ -5611,7 +5611,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213789780": {
@@ -5650,7 +5650,7 @@
 "lab_score": 40,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7215083405": {
@@ -5690,7 +5690,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213623390": {
@@ -5726,7 +5726,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214127834": {
@@ -5772,7 +5772,7 @@
 "lab_score": 38,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213651753": {
@@ -5804,7 +5804,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7154625548": {
@@ -5833,7 +5833,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221094773": {
@@ -5870,7 +5870,7 @@
 "lab_score": 8,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213874267": {
@@ -5906,7 +5906,7 @@
 "lab_score": 10,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214398814": {
@@ -5940,7 +5940,7 @@
 "lab_score": 13,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221085863": {
@@ -5971,7 +5971,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213454782": {
@@ -6007,7 +6007,7 @@
 "lab_score": 30,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7216498780": {
@@ -6043,7 +6043,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213339260": {
@@ -6085,7 +6085,7 @@
 "lab_score": 40,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7218557514": {
@@ -6125,7 +6125,7 @@
 "lab_score": 28,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214652224": {
@@ -6171,7 +6171,7 @@
 "lab_score": 28,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221149918": {
@@ -6207,7 +6207,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221064536": {
@@ -6245,7 +6245,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7216206268": {
@@ -6283,7 +6283,7 @@
 "lab_score": 35,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213401298": {
@@ -6315,7 +6315,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221554702": {
@@ -6357,7 +6357,7 @@
 "lab_score": 45,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214921272": {
@@ -6398,7 +6398,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214199431": {
@@ -6439,7 +6439,7 @@
 "lab_score": 25,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214897741": {
@@ -6481,7 +6481,7 @@
 "lab_score": 33,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221001849": {
@@ -6514,7 +6514,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214447766": {
@@ -6552,7 +6552,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214063412": {
@@ -6589,7 +6589,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214300603": {
@@ -6629,7 +6629,7 @@
 "lab_score": 8,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7219739863": {
@@ -6669,7 +6669,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213561088": {
@@ -6706,7 +6706,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214395256": {
@@ -6745,7 +6745,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7219783178": {
@@ -6783,7 +6783,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7214391693": {
@@ -6823,7 +6823,7 @@
 "lab_score": 8,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7219083812": {
@@ -6857,7 +6857,7 @@
 "lab_score": 18,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7215122363": {
@@ -6894,7 +6894,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7213758863": {
@@ -6919,7 +6919,7 @@
 "Zaher Mundher Yaseen‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬",
 "Ahmad Hosseini–Bandegharaei"
 ],
-"citations": 0,
+"citations": 2,
 "abstract": "",
 "url": "https://doi.org/10.1016/j.cis.2026.104056",
 "tier": null,
@@ -6931,7 +6931,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221588897": {
@@ -6968,7 +6968,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221772102": {
@@ -7010,7 +7010,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221990327": {
@@ -7046,7 +7046,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222551833": {
@@ -7090,7 +7090,7 @@
 "lab_score": 20,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222431835": {
@@ -7122,7 +7122,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222597305": {
@@ -7162,7 +7162,7 @@
 "lab_score": 68,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222162691": {
@@ -7203,7 +7203,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222829459": {
@@ -7237,7 +7237,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222896794": {
@@ -7279,7 +7279,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222970865": {
@@ -7313,7 +7313,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222953667": {
@@ -7350,7 +7350,7 @@
 "lab_score": 30,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222981799": {
@@ -7391,7 +7391,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7222956001": {
@@ -7421,7 +7421,7 @@
 "lab_score": 0,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7223695771": {
@@ -7460,7 +7460,7 @@
 "lab_score": 26,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7223780627": {
@@ -7495,7 +7495,7 @@
 "lab_score": 8,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7223818308": {
@@ -7536,7 +7536,7 @@
 "lab_score": 13,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7221687033": {
@@ -7570,7 +7570,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7223466990": {
@@ -7609,7 +7609,7 @@
 "lab_score": 15,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7223874153": {
@@ -7640,7 +7640,7 @@
 "lab_score": 5,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 },
 "W7224756151": {
@@ -7675,7 +7675,7 @@
 "lab_score": 30,
 "tldr": "",
 "model": "keywords",
-"at": "2026-11-01T00:26:57+00:00"
+"at": "2026-11-02T01:03:45+00:00"
 }
 }
 }
